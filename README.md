@@ -1,3 +1,3 @@
-# italoboss.github.io
+# kariipaula.github.io
 
 Portfolio page.
